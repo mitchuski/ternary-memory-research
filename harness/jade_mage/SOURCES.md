@@ -17,7 +17,7 @@ Evidence classes:
 | their-audit | E-DOC | `../../research/hardening-2026-09-18-heldout.md` | the held-out self-audit and the pre-registered rule (§13) |
 | their-general-track | E-DOC | `../../research/general-model-track.md` | the locked qualification rule (§5) and night-1 result (§6) |
 | overlap-note | E-DOC | `../../sources/agentprivacy/OVERLAP_NOTE_2026-09-21.md` | the note delivered upstream by pull request |
-| carrier-symmetry | E-DOC | `../../research/carrier-symmetry.md`, `../../experiments/verify_carrier_symmetry.py`, `../../outputs/carrier-symmetry.json` | the first contribution (PR-1 of the note's §9); 27 exhaustive checks |
+| carrier-symmetry | E-DOC | `../../research/carrier-symmetry.md`, `../../experiments/verify_carrier_symmetry.py`, `../../outputs/carrier-symmetry.json` | the first contribution (PR-1 of the note's §9) plus the same-day follow-up (differential-pair reading, §3b); 33 exhaustive checks |
 | first-contact | E-RUN | `chronicles/2026-09-21_first-contact.md` | what happened on this side, in order |
 | harness-catalogue | E-EXT | https://github.com/mitchuski/agentprivacy-harness/blob/main/HARNESS_PATHS.md | where an accession would be written, on invitation only |
 | skill-catalog | E-EXT | https://skills.agentprivacy.ai/assets/skillsync/catalog.json | the packet catalog the owner hash-checked; the `dual-agent-harness` v1.0 home-path defect they surfaced is ours to fix |

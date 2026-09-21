@@ -39,6 +39,22 @@ files and survived both switches.
    and the three contribution files. Pushed. Pull request opened upstream.
 8. Branch `harness/jade_mage` on the fork: this directory. Pushed. Never proposed upstream.
 
+## Later the same day: the first follow-up
+
+The keeper asked for thoughts on neuromorphic applications and then for a follow-up into the pull
+request "if there is progress to be made". Progress was made rather than argued:
+
+- checker section 11, the differential conductance pair of their deep dive 09: swapping the two lines is
+  the only write-free map and it induces exactly `N_0`; the two zero-moving swaps are the cheapest
+  reprograms (2 cell writes over the three codes) but can never be free, and each moves the non-conducting
+  code off the zero weight; the write-free set equals the product-pushable set. 33 checks, all exhaustive.
+- `research/carrier-symmetry.md` §3b states the reading and its fence (a write is a state change of an
+  idealised binary cell; no device physics is claimed).
+- the overlap note's pathway P10, "ternary on metal": the 16 September additive-GEMM verdict as a
+  substrate mismatch; what maps to an array and what does not; two tests without hardware (an aihwkit
+  phase-change drift curve on arm C's tiles; the exit price λ in energy per tile pass).
+- second commit `fb709e6` on the PR branch; comment posted on PR #1. The owner had not replied at that time.
+
 ## What waits on the owner
 
 The catalogue entry (by invitation), the acknowledgement paragraph (needs a name), any census record,
